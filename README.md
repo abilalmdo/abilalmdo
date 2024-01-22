@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Cloud and DevOps Engineer with a focus on IT Infrastructur, Private & Public Cloud, Kubernetes, Azure IoT Hub, CI/CD, Ansible, Terraform, Python etc.
 <!--
 **abilalmdo/abilalmdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a data ingestion Project on Azure IoT Hub
+- 🌱 I’m currently learning and advancing my knowledge of OpenShift
+- 👯 I’m looking to collaborate on opensource Technologies 
+- 💬 Ask me about, opensource technologies, Linux, Private and Public Cloud as well as DevOps
+- 📫 How to reach me: bilal.aamirm@gmail.com
+- 😄 Pronouns: He/Him
